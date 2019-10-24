@@ -1,0 +1,17 @@
+[
+    {
+        "img" : "./json-data/banner/lyt.jpg", 
+        "url" : "",
+        "alt" : "李一桐"
+    },
+    {
+        "img" : "./json-data/banner/zzx.jpg", 
+        "url" : "",
+        "alt" : "张芷溪"
+    },
+    {
+        "img" : "./json-data/banner/gakki.jpg", 
+        "url" : "",
+        "alt" : "gakki"
+    }
+]
